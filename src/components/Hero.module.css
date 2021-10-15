@@ -1,0 +1,68 @@
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  margin-bottom: 30px;
+  gap: 100px;
+}
+.subscription {
+  display: flex;
+  gap: 40px;
+}
+
+.subscription__button {
+  background: #f16718;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: "Barlow";
+  transition: all 300ms ease-in-out;
+}
+.subscription__button:hover {
+  background: #ff9b62;
+}
+.subscription__outline {
+  background: transparent;
+  outline: none;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: "Barlow";
+  color: #7b8bad;
+}
+.hero__image {
+  width: 100%;
+  height: 480px;
+  background-image: url("../assets/desktop/image-keyboard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+@media (max-width: 768px) {
+  .hero {
+    gap: 50px;
+  }
+  h1 {
+    font-size: 48px;
+  }
+  p {
+    font-size: 16px;
+  }
+  .hero__image {
+    background-image: url("../assets/tablet/image-keyboard.jpg");
+    height: 425px;
+    width: 100%;
+  }
+}
+@media (max-width: 768px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+  .hero__image {
+    background-image: url("../assets/mobile/image-keyboard.jpg");
+    width: 100%;
+    height: 372px;
+  }
+}
