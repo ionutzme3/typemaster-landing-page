@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/typemaster-landing-page/static/css/main.ac6b365d.chunk.css",
+    "main.js": "/typemaster-landing-page/static/js/main.714e590c.chunk.js",
+    "main.js.map": "/typemaster-landing-page/static/js/main.714e590c.chunk.js.map",
+    "runtime-main.js": "/typemaster-landing-page/static/js/runtime-main.7ca8f588.js",
+    "runtime-main.js.map": "/typemaster-landing-page/static/js/runtime-main.7ca8f588.js.map",
+    "static/js/2.fdaf3492.chunk.js": "/typemaster-landing-page/static/js/2.fdaf3492.chunk.js",
+    "static/js/2.fdaf3492.chunk.js.map": "/typemaster-landing-page/static/js/2.fdaf3492.chunk.js.map",
+    "index.html": "/typemaster-landing-page/index.html",
+    "static/css/main.ac6b365d.chunk.css.map": "/typemaster-landing-page/static/css/main.ac6b365d.chunk.css.map",
+    "static/js/2.fdaf3492.chunk.js.LICENSE.txt": "/typemaster-landing-page/static/js/2.fdaf3492.chunk.js.LICENSE.txt",
+    "static/media/icon-battery.aac4e71b.svg": "/typemaster-landing-page/static/media/icon-battery.aac4e71b.svg",
+    "static/media/icon-bluetooth.671d67b8.svg": "/typemaster-landing-page/static/media/icon-bluetooth.671d67b8.svg",
+    "static/media/icon-compatible.460c5f05.svg": "/typemaster-landing-page/static/media/icon-compatible.460c5f05.svg",
+    "static/media/icon-light.762c82d2.svg": "/typemaster-landing-page/static/media/icon-light.762c82d2.svg",
+    "static/media/About.module.css": "/typemaster-landing-page/static/media/image-phone-and-keyboard.fad0ac14.jpg",
+    "static/media/Hero.module.css": "/typemaster-landing-page/static/media/image-keyboard.f344ffa9.jpg",
+    "static/media/logo.59dff8e2.svg": "/typemaster-landing-page/static/media/logo.59dff8e2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ca8f588.js",
+    "static/js/2.fdaf3492.chunk.js",
+    "static/css/main.ac6b365d.chunk.css",
+    "static/js/main.714e590c.chunk.js"
+  ]
+}
